@@ -1,0 +1,14 @@
+datos\DetalleDAO.class
+datos\CabeceraDAO.class
+servicios\RestApplication.class
+modelo\Cabecera_.class
+modelo\Detalle.class
+servicios\Datos_Detalle.class
+modelo\Cabecera.class
+servicios\Resultado.class
+servicios\Facturacion_Service_Rest.class
+utils\Recursos.class
+servicios\Datos_Cabecera.class
+modelo\Detalle_.class
+negocio\Gestion_Detalle.class
+negocio\Gestion_Cabecera.class
